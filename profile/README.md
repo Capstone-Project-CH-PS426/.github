@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="" />
+  <img align="center" width="400" src="https://github.com/Capstone-Project-CH-PS426/Web-Development/blob/main/logo.png" />
 </p>
 <h1 align="center">SkinSolve</h1>
 <h2 align="center"></h2>
