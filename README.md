@@ -2,7 +2,7 @@
   <img align="center" width="400" src="" />
 </p>
 <h1 align="center">SkinSolve</h1>
-<h2 align="center"></h2>
+<h2 align="center">Personalized Food and Skincare Products Recommendations System Based on Your Specific Skin Problems</h2>
 
 <h3 align="center">Bangkit 2023 Capstone Team: CH-PS426 </h3>
 
